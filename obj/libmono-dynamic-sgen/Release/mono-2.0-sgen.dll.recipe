@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project>
+  <ProjectOutputs>
+    <ProjectOutput>
+      <FullPath>C:\Users\user\Desktop\Mono\mono\msvc\build\sgen\x64\lib\Release\build-init</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>C:\Users\user\Desktop\Mono\mono\msvc\build\sgen\x64\bin\Release\build-external-btls</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>C:\Users\user\Desktop\Mono\mono\msvc\build\sgen\x64\bin\Release\build-external-llvm</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>C:\Users\user\Desktop\Mono\mono\msvc\build\sgen\x64\bin\Release\genmdesc.exe</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>C:\Users\user\Desktop\Mono\mono\msvc\build\sgen\x64\bin\Release\mono-2.0-sgen.dll</FullPath>
+    </ProjectOutput>
+  </ProjectOutputs>
+  <ContentFiles />
+  <SatelliteDlls />
+  <NonRecipeFileRefs />
+</Project>

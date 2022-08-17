@@ -1,0 +1,33 @@
+﻿  array.c
+  dir.c
+  driver.c
+  endian.c
+  fake.c
+  file.c
+  getopt.c
+  getopt_long.c
+  hashtable.c
+  list.c
+  markup.c
+  memory.c
+  module.c
+  path.c
+  pattern.c
+  ptrarray.c
+  queue.c
+  shell.c
+  sizes.c
+  slist.c
+  Generating Code...
+  Compiling...
+  spawn.c
+  string-util.c
+  string.c
+  test.c
+  timer.c
+  unicode.c
+  utf8.c
+  Generating Code...
+  enum.cpp
+     Creating library C:\Users\user\Desktop\Mono\mono\msvc/./build/sgen/x64\bin\Debug\test_eglib.lib and object C:\Users\user\Desktop\Mono\mono\msvc/./build/sgen/x64\bin\Debug\test_eglib.exp
+  test_eglib.vcxproj -> C:\Users\user\Desktop\Mono\mono\msvc\build\sgen\x64\bin\Debug\test_eglib.exe

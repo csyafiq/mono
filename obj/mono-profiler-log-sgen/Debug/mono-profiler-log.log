@@ -1,0 +1,6 @@
+﻿  helper.c
+  log-args.c
+  log.c
+  Generating Code...
+     Creating library C:\Users\user\Desktop\Mono\mono\msvc/./build/sgen/x64\bin\Debug\mono-profiler-log.lib and object C:\Users\user\Desktop\Mono\mono\msvc/./build/sgen/x64\bin\Debug\mono-profiler-log.exp
+  mono-profiler-log.vcxproj -> C:\Users\user\Desktop\Mono\mono\msvc\build\sgen\x64\bin\Debug\mono-profiler-log.dll

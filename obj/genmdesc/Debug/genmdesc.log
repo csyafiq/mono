@@ -1,0 +1,10 @@
+﻿  genmdesc.c
+  helpers.c
+  monobitset.c
+  opcodes.c
+  Generating Code...
+  genmdesc.vcxproj -> C:\Users\user\Desktop\Mono\mono\msvc\build\sgen\x64\bin\Debug\genmdesc.exe
+  genmdesc.exe Custom Build Step.
+  Running genmdesc
+  Platform detected is x64...
+  done

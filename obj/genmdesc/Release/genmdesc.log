@@ -1,0 +1,7 @@
+﻿  genmdesc.c
+  helpers.c
+  monobitset.c
+  opcodes.c
+  Generating code
+  Finished generating code
+  genmdesc.vcxproj -> C:\Users\user\Desktop\Mono\mono\msvc\build\sgen\x64\bin\Release\genmdesc.exe

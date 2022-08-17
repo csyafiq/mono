@@ -1,0 +1,10 @@
+﻿  declsec.c
+  dis-cil.c
+  dump.c
+  get.c
+  main.c
+  opcodes.c
+  util.c
+  Generating code
+  Finished generating code
+  monodis.vcxproj -> C:\Users\user\Desktop\Mono\mono\msvc\build\sgen\x64\bin\Release\monodis-sgen.exe
