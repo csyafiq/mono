@@ -1,9 +1,0 @@
-﻿  declsec.c
-  dis-cil.c
-  dump.c
-  get.c
-  main.c
-  opcodes.c
-  util.c
-  Generating Code...
-  monodis.vcxproj -> C:\Users\user\Desktop\Mono\mono\msvc\build\sgen\x64\bin\Debug\monodis-sgen.exe
